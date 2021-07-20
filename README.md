@@ -13,4 +13,4 @@ Multicall2 is the same as Multicall, but provides addition functions that allow 
 
 | Chain   | Address |
 | ------- | ------- |
-| BSC | [0x397bdde000fe9bdcFEE2a3e6aCb03a1554c96B41](https://bscscan.com/address/0x397bdde000fe9bdcFEE2a3e6aCb03a1554c96B41#contracts) |
+| BSC | [0xffBe6a2253e03a83D1ddE16e4F5f2F58184AbabB](https://bscscan.com/address/0xffBe6a2253e03a83D1ddE16e4F5f2F58184AbabB#contracts) |
