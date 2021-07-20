@@ -43,4 +43,3 @@ contract Multicall {
         coinbase = block.coinbase;
     }
 }
-{"mode":"full","isActive":false}
